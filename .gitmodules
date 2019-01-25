@@ -3,4 +3,4 @@
 	url = https://github.com/HuaiyuCai/common.git
 [submodule "lib"]
 	path = lib
-	url = ./lib
+	url = https://github.com/HuaiyuCai/LIB.git

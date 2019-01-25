@@ -1,3 +1,6 @@
 [submodule "commom"]
 	path = commom
 	url = https://github.com/HuaiyuCai/common.git
+[submodule "lib"]
+	path = lib
+	url = ./lib
